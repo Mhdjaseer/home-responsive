@@ -1,0 +1,85 @@
+.nav-link{
+   margin-left: 54px;
+   margin-top: 52px;
+   
+}
+.navbar-nav .nav-item  .nav-link {
+    color: rgb(252, 245, 245);
+}
+.navbar-nav{
+    padding-right: 185px;
+}
+.navbar-brand{
+    margin-left: 82px;
+    margin-top: 52px;
+    
+}
+
+.hd{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    /* line-height: 30px; */
+    color: rgb(252, 245, 245);
+}
+.dh{
+    font-weight: 900;
+    font-size: 68px;
+    /* line-height: 109%; */
+    color: rgb(252, 245, 245);
+}
+.hdh{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: rgb(252, 245, 245);
+/* line-height: 180%; */
+}
+.text{
+    color: rgb(252, 245, 245);
+}
+.bg-img{
+    width: 800px;
+    height: 926px;
+    margin-top: -150px;
+   filter:  drop-shadow(0 -10mm 55mm rgb(90, 232, 111));
+}
+.row .col-sm{
+    margin-top: 100px;
+}
+
+.bct{
+    /* padding-left: 50px; */
+    display: inline;
+    margin-right: 100px;
+}
+
+.img-text{
+ margin-top: -200px;
+ margin-left: 80px;
+}
+.btn{
+    margin-right: 100px;
+}
+@media only screen and (max-width: 600px) {
+
+    .bg-img{
+        width: 100%;
+    }
+} 
+
+@media only screen and (min-width: 992px) {
+    body{
+        width:1440px ;
+        height:1024px ;
+    }
+} 
+body{
+    background: linear-gradient(136.16deg, rgba(91, 135, 75, 0.97) 12.91%, rgba(12, 55, 32, 0.87) 87.68%);
+    color: white;
+    
+}
+.nos{
+    border-radius: 50px;
+    border: 2px solid rgb(255, 255, 255); 
+}
